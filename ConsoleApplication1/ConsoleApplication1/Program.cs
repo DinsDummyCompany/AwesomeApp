@@ -10,9 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            string input;
             System.Console.WriteLine("Hello VS 2015");
-            System.Console.ReadLine();
-            System.Console.WriteLine("Even more text goes here");
+            System.Console.Write("Even more text goes here, now press enter.");
+            input = System.Console.ReadLine();
         }
     }
 }
