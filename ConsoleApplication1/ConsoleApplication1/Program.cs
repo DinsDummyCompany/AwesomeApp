@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             System.Console.WriteLine("Hello VS 2015");
             System.Console.ReadLine();
+            System.Console.WriteLine("Even more text goes here");
         }
     }
 }
